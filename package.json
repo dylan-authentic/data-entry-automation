@@ -1,0 +1,16 @@
+{
+  "name": "data-entry-automation",
+  "version": "1.0",
+  "description": "A Node.js script that reads data from an excel file and automatically enters that data into a form on a webpage",
+  "main": "script.js",
+  "scripts": {
+    "script": "node script.js"
+  },
+  "author": "Authentic Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "puppeteer": "^5.5.0",
+    "read-excel-file": "^4.1.0"
+  }
+}
