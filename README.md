@@ -1,6 +1,8 @@
 # Data Entry Automation
 This script automates a much common task of entering data from an excel file into an online form using node.js.
 
+For more information, check out [this medium article](https://dylanauthentic.medium.com/how-i-created-a-51-cost-savings-for-my-client-using-simple-browser-automation-fb12052a8ae6)
+
 ### Built With
 
   
